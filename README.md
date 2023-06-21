@@ -40,7 +40,7 @@ The live demo of the project can be accessed [here](https://uwais-moosa.github.i
 
 ## Challenges
 
-uilding a website can be an exciting and rewarding experience, but it also comes with its fair share of challenges. During the development of my website, I encountered several obstacles that required thorough research and problem-solving. In this README, I would like to highlight some of the significant challenges I faced throughout the process.
+Building a website can be an exciting and rewarding experience, but it also comes with its fair share of challenges. During the development of my website, I encountered several obstacles that required thorough research and problem-solving. In this README, I would like to highlight some of the significant challenges I faced throughout the process.
 
 1. Researching Flexbox
 One of the challenges I encountered was understanding and implementing Flexbox, a powerful CSS layout model. Flexbox offers flexible and dynamic arrangements for website elements, enabling responsive designs. However, it required me to delve into the documentation and online resources to grasp its concepts fully. Through perseverance and experimenting with different scenarios, I managed to gain a solid understanding of Flexbox and effectively use it to structure my website's layout.
