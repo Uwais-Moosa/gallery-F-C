@@ -66,4 +66,5 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://www.w3schools.com/cssref/css3_pr_mediaquery.php
 https://icons8.com/icon
 https://medium.com/waveshape-collective/custom-text-underline-highlighted-text-in-webflow-f8499f5c6811
+https://www.w3docs.com/snippets/css/how-to-limit-the-text-length-to-one-line-with-css.html#:~:text=If%20you%20want%20to%20limit,be%20signalled%20to%20the%20user.
 
